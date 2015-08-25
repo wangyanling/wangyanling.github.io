@@ -3,9 +3,19 @@
 	background-image:url(../img/002.jpg) ;
 	background-size:cover;
 	width:100%;
-	padding-bottom:500px;
+	min-height:500px;
 	background-position:center 0 ;
 }
+.Intro{
+	border-radius:20px;
+	min-height:100px;
+	float:none;
+	margin:0 auto;
+	background-color:#DDDDDD;
+	opacity: 0.5;
+	padding: 20px;
+}
+
 .project{
 	max-width:390px;
 	margin:10px auto;
